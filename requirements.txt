@@ -1,0 +1,5 @@
+# Optional: install only when using local Uyghur speech recognition.
+# Basic webpage and offline self-check use the Python standard library.
+onnxruntime>=1.18,<2
+numpy>=1.26,<3
+imageio-ffmpeg>=0.5,<1
